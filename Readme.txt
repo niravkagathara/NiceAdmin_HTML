@@ -1,12 +1,12 @@
-The repository includes an React And dotNet template inside a ZIP. NiceAdminPanel HTML.zip
+The repository includes an React/ ASP.net core MVC template inside a ZIP. NiceAdminPanel HTML.zip
 
 View Template
 
 NiceAdmin With React Template:
-https://github.com/AnshPatel04/NiceAbmTempReact
+<a>https://github.com/AnshPatel04/NiceAbmTempReact</a>
 
-NiceAdmin With dotNet Template:
-https://github.com/AnshPatel04/NiceAbmTempNetMVC
+NiceAdmin With ASP.net core MVC Template:
+<a>https://github.com/AnshPatel04/NiceAbmTempNetMVC</a>
 
 
 Thanks for downloading this template!
